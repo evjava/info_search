@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47147ff1-db65-466e-8240-988af7fd6b52" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntIntMultiMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Indexer.java" afterPath="$PROJECT_DIR$/src/Indexer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WordIndex.java" afterPath="$PROJECT_DIR$/src/WordIndex.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/WordIndexTests.java" afterPath="$PROJECT_DIR$/test/WordIndexTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpleIndex.db" afterPath="$PROJECT_DIR$/simpleIndex.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="info_search.iws" />
@@ -23,7 +16,7 @@
     <file path="$USER_HOME$/1/sqlite4java/ant/build.gant" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412597867108" ignored="false" />
     <file path="$USER_HOME$/1/sqlite4java/ant/MANIFEST.MF" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412600356028" ignored="false" />
     <file path="/fragment.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414005091673" ignored="false" />
-    <file path="/Dummy.txt" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414005089013" ignored="false" />
+    <file path="/Dummy.txt" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414007255433" ignored="false" />
     <file path="/*.regexp" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412598501472" ignored="false" />
     <file path="$USER_HOME$/1/sqlite4java/test/com/almworks/sqlite4java/NonASCIIIssue17Tests.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412598584372" ignored="false" />
     <file path="/NonASCIIIssue17Tests.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412599144787" ignored="false" />
@@ -897,6 +890,11 @@
       <created>1412514730465</created>
       <updated>1412514730465</updated>
     </task>
+    <task id="LOCAL-00001" summary="lalala">
+      <created>1414007260408</created>
+      <updated>1414007260408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -975,7 +973,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="lalala" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -989,6 +987,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="lalala" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1076,7 +1075,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simpleIndex.db">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/ru-morph-tagger.jar!/ru/itbrains/gate/morph/MorphInfo.class">
