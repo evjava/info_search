@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47147ff1-db65-466e-8240-988af7fd6b52" name="Default" comment="" />
+    <list default="true" id="47147ff1-db65-466e-8240-988af7fd6b52" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntIntMultiMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Indexer.java" afterPath="$PROJECT_DIR$/src/Indexer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WordIndex.java" afterPath="$PROJECT_DIR$/src/WordIndex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/WordIndexTests.java" afterPath="$PROJECT_DIR$/test/WordIndexTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpleIndex.db" afterPath="$PROJECT_DIR$/simpleIndex.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="info_search.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Indexer.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412857889173" ignored="false" />
+    <file path="/Indexer.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414005058856" ignored="false" />
     <file path="$USER_HOME$/1/my_experiments_etc/osgi_hello_world/src/com/javaworld/sample/helloworld/Activator.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412590194079" ignored="false" />
     <file path="$USER_HOME$/1/my_experiments_etc/Anroid4_check_sqlite4java/gen/com/example/Android4/Manifest.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412589813735" ignored="false" />
     <file path="$USER_HOME$/1/my_experiments_etc/Anroid4_check_sqlite4java/gen/com/example/Android4/R.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412589813735" ignored="false" />
@@ -13,8 +22,8 @@
     <file path="$USER_HOME$/1/my_experiments_etc/osgi_hello_world/manifest.mf" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412591403276" ignored="false" />
     <file path="$USER_HOME$/1/sqlite4java/ant/build.gant" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412597867108" ignored="false" />
     <file path="$USER_HOME$/1/sqlite4java/ant/MANIFEST.MF" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412600356028" ignored="false" />
-    <file path="/fragment.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412858288341" ignored="false" />
-    <file path="/Dummy.txt" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412858274180" ignored="false" />
+    <file path="/fragment.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414005091673" ignored="false" />
+    <file path="/Dummy.txt" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414005089013" ignored="false" />
     <file path="/*.regexp" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412598501472" ignored="false" />
     <file path="$USER_HOME$/1/sqlite4java/test/com/almworks/sqlite4java/NonASCIIIssue17Tests.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412598584372" ignored="false" />
     <file path="/NonASCIIIssue17Tests.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412599144787" ignored="false" />
@@ -26,10 +35,11 @@
     <file path="/UtilsTests.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412853534020" ignored="false" />
     <file path="/Utils.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412782249458" ignored="false" />
     <file path="/words.txt" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412665067851" ignored="false" />
-    <file path="/WordIndex.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412857928686" ignored="false" />
+    <file path="/WordIndex.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414006677213" ignored="false" />
     <file path="/QueryParser.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412851613287" ignored="false" />
-    <file path="/WordIndexTests.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412841060116" ignored="false" />
+    <file path="/WordIndexTests.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414005141680" ignored="false" />
     <file path="/Searcher.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1412851563353" ignored="false" />
+    <file path="/IntIntMultiMap.java" changelist="47147ff1-db65-466e-8240-988af7fd6b52" time="1414006644085" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +57,8 @@
     <notCoveredStripe>-65536</notCoveredStripe>
     <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
     <flushPolicy>0</flushPolicy>
-    <viewIncludeAnnotation>true</viewIncludeAnnotation>
     <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
     <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
     <manualInitString null="true" />
     <flushInterval>5000</flushInterval>
@@ -81,8 +91,8 @@
     <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
     <failedCoveredStripe>-14336</failedCoveredStripe>
     <regexpContexts class="java.util.ArrayList" />
-    <autoScrollFromSource>false</autoScrollFromSource>
     <flattenPackages>false</flattenPackages>
+    <autoScrollFromSource>false</autoScrollFromSource>
     <showErrorMarks>true</showErrorMarks>
     <showTooltips>true</showTooltips>
     <showSummaryInToolbar>true</showSummaryInToolbar>
@@ -101,7 +111,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -138,7 +148,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -151,7 +161,7 @@
       <file leaf-file-name="Indexer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Indexer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="35" selection-start="1751" selection-end="1751" vertical-scroll-proportion="0.0">
+            <state line="74" column="16" selection-start="2754" selection-end="2754" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Indexer#0;class#Indexer#0" expanded="true" />
@@ -165,34 +175,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordIndex.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WordIndex.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WordIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="41" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.0">
+            <state line="168" column="23" selection-start="4535" selection-end="4535" vertical-scroll-proportion="0.41512346">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#WordIndex#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#WordIndex#1;class#WordIndex#0" expanded="true" />
                 <element signature="docComment;method#save#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#save#0;class#WordIndex#0" expanded="true" />
+                <element signature="method#save#1;class#WordIndex#0" expanded="true" />
                 <element signature="method#dumpIndexToScreen#0;class#WordIndex#0" expanded="true" />
                 <element signature="docComment;method#loadIndex#0;class#WordIndex#0" expanded="true" />
+                <element signature="method#loadIndex#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#loadIndex#1;class#WordIndex#0" expanded="true" />
                 <element signature="docComment;method#getDocument#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#getDocument#0;class#WordIndex#0" expanded="true" />
                 <element signature="docComment;method#getDocuments#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#getDocuments#0;class#WordIndex#0" expanded="true" />
-                <element signature="class#3571:3955" expanded="true" />
-                <element signature="method#hasNext#0;class#3571:3955" expanded="true" />
-                <element signature="method#next#0;class#3571:3955" expanded="true" />
-                <element signature="method#remove#0;class#3571:3955" expanded="true" />
+                <element signature="class#3589:3973" expanded="true" />
+                <element signature="method#hasNext#0;class#3589:3973" expanded="true" />
+                <element signature="method#next#0;class#3589:3973" expanded="true" />
+                <element signature="method#remove#0;class#3589:3973" expanded="true" />
                 <element signature="docComment;method#documentsCount#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#documentsCount#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#status#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#getAllDocuments#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#getAllWords#0;class#WordIndex#0" expanded="true" />
                 <element signature="docComment;method#searchWord#0;class#WordIndex#0" expanded="true" />
-                <element signature="method#searchWord#0;class#WordIndex#0" expanded="true" />
+                <element signature="e#4572#4589#0" expanded="true" />
                 <element signature="docComment;method#addLink#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#addLink#0;class#WordIndex#0" expanded="true" />
                 <element signature="method#addLink#1;class#WordIndex#0" expanded="true" />
@@ -201,10 +213,259 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-db.db" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-db.db">
+      <file leaf-file-name="IntIntMultiMap.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntIntMultiMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="56" column="6" selection-start="1583" selection-end="1583" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#put#0;class#IntIntMultiMap#0" expanded="true" />
+                <element signature="method#getKey#0;class#IntIntMultiMap#0" expanded="true" />
+                <element signature="e#613#920#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="method#left#0;class#IntIntMultiMap#0" expanded="true" />
+                <element signature="method#right#0;class#IntIntMultiMap#0" expanded="true" />
+                <element signature="method#longIterate#0;class#IntIntMultiMap#0" expanded="true" />
+                <element signature="e#1244#1582#0" expanded="true" />
+                <element signature="e#1575#1576#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntIntFindingIterator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/libs/integers-sources.jar!/com/almworks/integers/IntIntFindingIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="13" selection-start="2348" selection-end="2348" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#left#0;class#IntIntFindingIterator#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordIndexTests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/WordIndexTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="16" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#testInputOutputArray#0;class#WordIndexTests#0" expanded="true" />
+                <element signature="method#tryLoadDocument#0;class#WordIndexTests#0" expanded="true" />
+                <element signature="method#test#0;class#WordIndexTests#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/programs/jdk1.7.0_25/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2062" column="22" selection-start="81360" selection-end="81360" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#122710#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#String#0" expanded="true" />
+                <element signature="docComment;field#value#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#hash#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#serialVersionUID#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#serialPersistentFields#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#0;class#String#0" expanded="true" />
+                <element signature="method#String#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#1;class#String#0" expanded="true" />
+                <element signature="method#String#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#2;class#String#0" expanded="true" />
+                <element signature="method#String#2;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#3;class#String#0" expanded="true" />
+                <element signature="method#String#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#4;class#String#0" expanded="true" />
+                <element signature="method#String#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#5;class#String#0" expanded="true" />
+                <element signature="method#String#5;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#6;class#String#0" expanded="true" />
+                <element signature="method#String#6;class#String#0" expanded="true" />
+                <element signature="method#checkBounds#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#7;class#String#0" expanded="true" />
+                <element signature="method#String#7;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#8;class#String#0" expanded="true" />
+                <element signature="method#String#8;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#9;class#String#0" expanded="true" />
+                <element signature="method#String#9;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#10;class#String#0" expanded="true" />
+                <element signature="method#String#10;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#11;class#String#0" expanded="true" />
+                <element signature="method#String#11;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#12;class#String#0" expanded="true" />
+                <element signature="method#String#12;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#13;class#String#0" expanded="true" />
+                <element signature="method#String#13;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#14;class#String#0" expanded="true" />
+                <element signature="method#String#14;class#String#0" expanded="true" />
+                <element signature="method#String#15;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#16;class#String#0" expanded="true" />
+                <element signature="method#String#16;class#String#0" expanded="true" />
+                <element signature="docComment;method#length#0;class#String#0" expanded="true" />
+                <element signature="method#length#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#isEmpty#0;class#String#0" expanded="true" />
+                <element signature="method#isEmpty#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#charAt#0;class#String#0" expanded="true" />
+                <element signature="method#charAt#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#codePointAt#0;class#String#0" expanded="true" />
+                <element signature="method#codePointAt#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#codePointBefore#0;class#String#0" expanded="true" />
+                <element signature="method#codePointBefore#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#codePointCount#0;class#String#0" expanded="true" />
+                <element signature="method#codePointCount#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#offsetByCodePoints#0;class#String#0" expanded="true" />
+                <element signature="method#offsetByCodePoints#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#getChars#0;class#String#0" expanded="true" />
+                <element signature="method#getChars#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#getChars#1;class#String#0" expanded="true" />
+                <element signature="method#getChars#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#0;class#String#0" expanded="true" />
+                <element signature="method#getBytes#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#1;class#String#0" expanded="true" />
+                <element signature="method#getBytes#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#2;class#String#0" expanded="true" />
+                <element signature="method#getBytes#2;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#3;class#String#0" expanded="true" />
+                <element signature="method#getBytes#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#equals#0;class#String#0" expanded="true" />
+                <element signature="method#equals#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#contentEquals#0;class#String#0" expanded="true" />
+                <element signature="method#contentEquals#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#contentEquals#1;class#String#0" expanded="true" />
+                <element signature="method#contentEquals#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#equalsIgnoreCase#0;class#String#0" expanded="true" />
+                <element signature="method#equalsIgnoreCase#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#compareTo#0;class#String#0" expanded="true" />
+                <element signature="method#compareTo#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#CASE_INSENSITIVE_ORDER#0;class#String#0" expanded="true" />
+                <element signature="class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
+                <element signature="method#compare#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#compareToIgnoreCase#0;class#String#0" expanded="true" />
+                <element signature="method#compareToIgnoreCase#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#regionMatches#0;class#String#0" expanded="true" />
+                <element signature="method#regionMatches#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#regionMatches#1;class#String#0" expanded="true" />
+                <element signature="method#regionMatches#1;class#String#0" expanded="true" />
+                <element signature="e#52898#52951#0" expanded="true" />
+                <element signature="e#53320#53384#0" expanded="true" />
+                <element signature="docComment;method#startsWith#0;class#String#0" expanded="true" />
+                <element signature="method#startsWith#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#startsWith#1;class#String#0" expanded="true" />
+                <element signature="method#startsWith#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#endsWith#0;class#String#0" expanded="true" />
+                <element signature="method#endsWith#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#hashCode#0;class#String#0" expanded="true" />
+                <element signature="method#hashCode#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#0;class#String#0" expanded="true" />
+                <element signature="method#indexOf#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#1;class#String#0" expanded="true" />
+                <element signature="method#indexOf#1;class#String#0" expanded="true" />
+                <element signature="e#60862#60916#0" expanded="true" />
+                <element signature="docComment;method#indexOfSupplementary#0;class#String#0" expanded="true" />
+                <element signature="method#indexOfSupplementary#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#0;class#String#0" expanded="true" />
+                <element signature="method#lastIndexOf#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#1;class#String#0" expanded="true" />
+                <element signature="method#lastIndexOf#1;class#String#0" expanded="true" />
+                <element signature="e#64938#64992#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOfSupplementary#0;class#String#0" expanded="true" />
+                <element signature="method#lastIndexOfSupplementary#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#2;class#String#0" expanded="true" />
+                <element signature="method#indexOf#2;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#3;class#String#0" expanded="true" />
+                <element signature="method#indexOf#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#4;class#String#0" expanded="true" />
+                <element signature="method#indexOf#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#2;class#String#0" expanded="true" />
+                <element signature="method#lastIndexOf#2;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#3;class#String#0" expanded="true" />
+                <element signature="method#lastIndexOf#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#4;class#String#0" expanded="true" />
+                <element signature="method#lastIndexOf#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#substring#0;class#String#0" expanded="true" />
+                <element signature="method#substring#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#substring#1;class#String#0" expanded="true" />
+                <element signature="method#substring#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#subSequence#0;class#String#0" expanded="true" />
+                <element signature="method#subSequence#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#concat#0;class#String#0" expanded="true" />
+                <element signature="method#concat#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#replace#0;class#String#0" expanded="true" />
+                <element signature="method#replace#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#matches#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#contains#0;class#String#0" expanded="true" />
+                <element signature="method#contains#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#replaceFirst#0;class#String#0" expanded="true" />
+                <element signature="method#replaceFirst#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#replaceAll#0;class#String#0" expanded="true" />
+                <element signature="method#replaceAll#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#replace#1;class#String#0" expanded="true" />
+                <element signature="method#replace#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#split#0;class#String#0" expanded="true" />
+                <element signature="method#split#0;class#String#0" expanded="true" />
+                <element signature="e#90974#90985#0" expanded="true" />
+                <element signature="docComment;method#split#1;class#String#0" expanded="true" />
+                <element signature="method#split#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#toLowerCase#0;class#String#0" expanded="true" />
+                <element signature="method#toLowerCase#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#toLowerCase#1;class#String#0" expanded="true" />
+                <element signature="method#toLowerCase#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#toUpperCase#0;class#String#0" expanded="true" />
+                <element signature="method#toUpperCase#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#toUpperCase#1;class#String#0" expanded="true" />
+                <element signature="method#toUpperCase#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#trim#0;class#String#0" expanded="true" />
+                <element signature="method#trim#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#toString#0;class#String#0" expanded="true" />
+                <element signature="method#toString#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#toCharArray#0;class#String#0" expanded="true" />
+                <element signature="method#toCharArray#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#format#0;class#String#0" expanded="true" />
+                <element signature="method#format#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#format#1;class#String#0" expanded="true" />
+                <element signature="method#format#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#0;class#String#0" expanded="true" />
+                <element signature="method#valueOf#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#1;class#String#0" expanded="true" />
+                <element signature="method#valueOf#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#2;class#String#0" expanded="true" />
+                <element signature="method#valueOf#2;class#String#0" expanded="true" />
+                <element signature="docComment;method#copyValueOf#0;class#String#0" expanded="true" />
+                <element signature="method#copyValueOf#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#copyValueOf#1;class#String#0" expanded="true" />
+                <element signature="method#copyValueOf#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#3;class#String#0" expanded="true" />
+                <element signature="method#valueOf#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#4;class#String#0" expanded="true" />
+                <element signature="method#valueOf#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#5;class#String#0" expanded="true" />
+                <element signature="method#valueOf#5;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#6;class#String#0" expanded="true" />
+                <element signature="method#valueOf#6;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#7;class#String#0" expanded="true" />
+                <element signature="method#valueOf#7;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#8;class#String#0" expanded="true" />
+                <element signature="method#valueOf#8;class#String#0" expanded="true" />
+                <element signature="docComment;method#intern#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#HASHING_SEED#0;class#String#0" expanded="true" />
+                <element signature="initializer##0;class#String#0" expanded="true" />
+                <element signature="e#121344#121392#0" expanded="true" />
+                <element signature="e#121753#121808#0" expanded="true" />
+                <element signature="docComment;field#hash32#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#hash32#0;class#String#0" expanded="true" />
+                <element signature="method#hash32#0;class#String#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pattern.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/programs/jdk1.7.0_25/src.zip!/java/util/regex/Pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="771" column="35" selection-start="39428" selection-end="39428" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -212,77 +473,48 @@
       </file>
       <file leaf-file-name="heart_of_a_dog_14.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/heart_of_a_dog_14.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="1938" selection-end="1938" vertical-scroll-proportion="-5.2">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UtilsTests.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/UtilsTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="0" selection-start="8356" selection-end="8356" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#parseFile#0;class#UtilsTests#0" expanded="true" />
-                <element signature="method#tokenize#0;class#UtilsTests#0" expanded="true" />
-                <element signature="e#8597#8634#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Searcher.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Searcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="70" selection-start="2517" selection-end="2517" vertical-scroll-proportion="0.9378428">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#parseExpression#0;class#Searcher#0" expanded="true" />
-                <element signature="e#849#862#0" expanded="true" />
-                <element signature="docComment;method#main#0;class#Searcher#0" expanded="true" />
-                <element signature="method#main#0;class#Searcher#0" expanded="true" />
-                <element signature="method#extractName#0;class#Searcher#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="System.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/programs/jdk1.7.0_55/src.zip!/java/lang/System.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="349" column="30" selection-start="12251" selection-end="12251" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="heart_of_a_dog_05.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/heart_of_a_dog_05.txt">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="98" selection-start="1344" selection-end="1344" vertical-scroll-proportion="-6.8">
+            <state line="10" column="98" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Utils.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="16" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.0">
+            <state line="95" column="96" selection-start="2369" selection-end="2369" vertical-scroll-proportion="0.0">
               <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#isValid#0;class#Utils#0" expanded="true" />
+                <element signature="method#findAllFiles#0;class#Utils#0" expanded="true" />
                 <element signature="method#parseFile#0;class#Utils#0" expanded="true" />
-                <element signature="method#tokenize#0;class#Utils#0" expanded="true" />
+                <element signature="class#1238:2152" expanded="true" />
+                <element signature="initializer##0;class#1238:2152" expanded="true" />
+                <element signature="method#advanceIterator#0;class#1238:2152" expanded="true" />
+                <element signature="method#hasNext#0;class#1238:2152" expanded="true" />
+                <element signature="method#next#0;class#1238:2152" expanded="true" />
+                <element signature="method#remove#0;class#1238:2152" expanded="true" />
+                <element signature="class#2170:2288" expanded="true" />
+                <element signature="method#iterator#0;class#2170:2288" expanded="true" />
+                <element signature="method#isLetter#0;class#Utils#0" expanded="true" />
                 <element signature="docComment;method#normalizedWords#0;class#Utils#0" expanded="true" />
                 <element signature="method#normalizedWords#0;class#Utils#0" expanded="true" />
-                <element signature="e#3033#3041#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -295,6 +527,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -303,23 +543,24 @@
         <option value="$PROJECT_DIR$/test/IndexerTests.groovy" />
         <option value="$PROJECT_DIR$/test/IndexerTests.java" />
         <option value="$PROJECT_DIR$/files/words.txt" />
-        <option value="$PROJECT_DIR$/src/Utils.java" />
-        <option value="$PROJECT_DIR$/test/WordIndexTests.java" />
         <option value="$PROJECT_DIR$/src/QueryParser.java" />
         <option value="$PROJECT_DIR$/test/UtilsTests.java" />
-        <option value="$PROJECT_DIR$/src/Indexer.java" />
-        <option value="$PROJECT_DIR$/src/WordIndex.java" />
         <option value="$PROJECT_DIR$/src/Searcher.java" />
+        <option value="$PROJECT_DIR$/src/Utils.java" />
+        <option value="$PROJECT_DIR$/src/Indexer.java" />
+        <option value="$PROJECT_DIR$/test/WordIndexTests.java" />
+        <option value="$PROJECT_DIR$/src/IntIntMultiMap.java" />
+        <option value="$PROJECT_DIR$/src/WordIndex.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
     <option name="y" value="24" />
-    <option name="width" value="1368" />
-    <option name="height" value="721" />
+    <option name="width" value="1922" />
+    <option name="height" value="1153" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -347,6 +588,17 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -362,7 +614,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="info_search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -372,36 +624,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="info_search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info_search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info_search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Tests">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -412,11 +639,12 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -426,9 +654,9 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -448,7 +676,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Indexer">
+  <component name="RunManager" selected="JUnit.WordIndexTests.testSimple">
     <configuration default="false" name="Indexer" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Indexer" />
@@ -492,29 +720,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="WordIndexTests.tryLoadDocument" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="info_search" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordIndexTests" />
-      <option name="METHOD_NAME" value="tryLoadDocument" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="WordIndexTests.test2" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="info_search" />
@@ -546,6 +751,29 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="UtilsTests" />
       <option name="METHOD_NAME" value="checkSpeed" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WordIndexTests.testSimple" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="info_search" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordIndexTests" />
+      <option name="METHOD_NAME" value="testSimple" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -627,17 +855,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Indexer" />
       <item index="1" class="java.lang.String" itemvalue="Application.Searcher" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.WordIndexTests.tryLoadDocument" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.WordIndexTests.test2" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.UtilsTests.checkSpeed" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.WordIndexTests.test2" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UtilsTests.checkSpeed" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.WordIndexTests.testSimple" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Indexer" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.UtilsTests.checkSpeed" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Searcher" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WordIndexTests.test2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.WordIndexTests.tryLoadDocument" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.WordIndexTests.testSimple" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Indexer" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UtilsTests.checkSpeed" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Searcher" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.WordIndexTests.test2" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -672,37 +900,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="24" width="1368" height="721" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="24" width="1922" height="1153" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32635254" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32537314" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24545455" sideWeight="0.61605585" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38394415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IntelliCalc" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24493062" sideWeight="0.6706468" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38308457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="IntelliCalc" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -770,31 +998,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="16" selection-start="2219" selection-end="2219" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#parseFile#0;class#Utils#0" expanded="true" />
-            <element signature="method#tokenize#0;class#Utils#0" expanded="true" />
-            <element signature="docComment;method#normalizedWords#0;class#Utils#0" expanded="true" />
-            <element signature="method#normalizedWords#0;class#Utils#0" expanded="true" />
-            <element signature="e#3033#3041#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/UtilsTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="57" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#parseFile#0;class#UtilsTests#0" expanded="true" />
-            <element signature="method#tokenize#0;class#UtilsTests#0" expanded="true" />
-            <element signature="e#8597#8634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/libs/ru-morph-tagger.jar!/ru/itbrains/gate/morph/Feature.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="8" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" />
@@ -847,11 +1050,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/files/heart_of_a_dog_21.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/integers.jar!/com/almworks/integers/WritableLongSet.class">
@@ -873,97 +1076,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simpleIndex.db">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/ru-morph-tagger.jar!/ru/itbrains/gate/morph/MorphInfo.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="74" selection-start="529" selection-end="529" vertical-scroll-proportion="0.43418467">
-          <folding>
-            <element signature="method#getHomonymGrammems#0;class#MorphInfo#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="14" column="74" selection-start="529" selection-end="529" vertical-scroll-proportion="0.43418467" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/programs/jdk1.7.0_55/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3510" column="24" selection-start="136348" selection-end="136348" vertical-scroll-proportion="0.9378428">
-          <folding>
-            <element signature="method#emptyList#0;class#Collections#0" expanded="true" />
-            <element signature="class#SingletonList#0;class#Collections#0" expanded="true" />
-            <element signature="method#get#0;class#SingletonList#0;class#Collections#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/tmp/heart_of_a_dog_02.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="222" selection-start="2171" selection-end="2177" vertical-scroll-proportion="0.39100346">
-          <folding />
-        </state>
+        <state line="3510" column="24" selection-start="136348" selection-end="136348" vertical-scroll-proportion="0.9378428" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/files/words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="91" selection-start="335" selection-end="335" vertical-scroll-proportion="0.3119266">
+        <state line="6" column="91" selection-start="335" selection-end="335" vertical-scroll-proportion="0.3119266" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/heart_of_a_dog_05.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="98" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/UtilsTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="8690" selection-end="8690" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/WordIndexTests.java">
+    <entry file="file://$PROJECT_DIR$/files/heart_of_a_dog_14.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="45" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.737003">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#testInputOutputArray#0;class#WordIndexTests#0" expanded="true" />
-            <element signature="method#testSimple#0;class#WordIndexTests#0" expanded="true" />
-            <element signature="method#tryLoadDocument#0;class#WordIndexTests#0" expanded="true" />
-            <element signature="method#test2#0;class#WordIndexTests#0" expanded="true" />
-          </folding>
+        <state line="18" column="0" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/heart_of_a_dog_05.txt">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/IndexerTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="98" selection-start="1344" selection-end="1344" vertical-scroll-proportion="-6.8">
+        <state line="5" column="1" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/programs/jdk1.7.0_55/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="349" column="30" selection-start="12251" selection-end="12251" vertical-scroll-proportion="0.0">
+        <state line="58" column="76" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.17466803">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/UtilsTests.java">
+    <entry file="file://$PROJECT_DIR$/src/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="0" selection-start="8356" selection-end="8356" vertical-scroll-proportion="0.0">
+        <state line="95" column="96" selection-start="2369" selection-end="2369" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#parseFile#0;class#UtilsTests#0" expanded="true" />
-            <element signature="method#tokenize#0;class#UtilsTests#0" expanded="true" />
-            <element signature="e#8597#8634#0" expanded="true" />
+            <element signature="method#isValid#0;class#Utils#0" expanded="true" />
+            <element signature="method#findAllFiles#0;class#Utils#0" expanded="true" />
+            <element signature="method#parseFile#0;class#Utils#0" expanded="true" />
+            <element signature="class#1238:2152" expanded="true" />
+            <element signature="initializer##0;class#1238:2152" expanded="true" />
+            <element signature="method#advanceIterator#0;class#1238:2152" expanded="true" />
+            <element signature="method#hasNext#0;class#1238:2152" expanded="true" />
+            <element signature="method#next#0;class#1238:2152" expanded="true" />
+            <element signature="method#remove#0;class#1238:2152" expanded="true" />
+            <element signature="class#2170:2288" expanded="true" />
+            <element signature="method#iterator#0;class#2170:2288" expanded="true" />
+            <element signature="method#isLetter#0;class#Utils#0" expanded="true" />
+            <element signature="docComment;method#normalizedWords#0;class#Utils#0" expanded="true" />
+            <element signature="method#normalizedWords#0;class#Utils#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/heart_of_a_dog_14.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="1938" selection-end="1938" vertical-scroll-proportion="-5.2">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,43 +1165,218 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordIndex.java">
+    <entry file="jar://$USER_HOME$/programs/jdk1.7.0_25/src.zip!/java/util/regex/Pattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="41" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.0">
+        <state line="771" column="35" selection-start="39428" selection-end="39428" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/programs/jdk1.7.0_25/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2062" column="22" selection-start="81360" selection-end="81360" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="e#0#122710#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#WordIndex#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#WordIndex#1;class#WordIndex#0" expanded="true" />
-            <element signature="docComment;method#save#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#save#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#dumpIndexToScreen#0;class#WordIndex#0" expanded="true" />
-            <element signature="docComment;method#loadIndex#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#loadIndex#1;class#WordIndex#0" expanded="true" />
-            <element signature="docComment;method#getDocument#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#getDocument#0;class#WordIndex#0" expanded="true" />
-            <element signature="docComment;method#getDocuments#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#getDocuments#0;class#WordIndex#0" expanded="true" />
-            <element signature="class#3571:3955" expanded="true" />
-            <element signature="method#hasNext#0;class#3571:3955" expanded="true" />
-            <element signature="method#next#0;class#3571:3955" expanded="true" />
-            <element signature="method#remove#0;class#3571:3955" expanded="true" />
-            <element signature="docComment;method#documentsCount#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#documentsCount#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#status#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#getAllDocuments#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#getAllWords#0;class#WordIndex#0" expanded="true" />
-            <element signature="docComment;method#searchWord#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#searchWord#0;class#WordIndex#0" expanded="true" />
-            <element signature="docComment;method#addLink#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#addLink#0;class#WordIndex#0" expanded="true" />
-            <element signature="method#addLink#1;class#WordIndex#0" expanded="true" />
+            <element signature="docComment;class#String#0" expanded="true" />
+            <element signature="docComment;field#value#0;class#String#0" expanded="true" />
+            <element signature="docComment;field#hash#0;class#String#0" expanded="true" />
+            <element signature="docComment;field#serialVersionUID#0;class#String#0" expanded="true" />
+            <element signature="docComment;field#serialPersistentFields#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#0;class#String#0" expanded="true" />
+            <element signature="method#String#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#1;class#String#0" expanded="true" />
+            <element signature="method#String#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#2;class#String#0" expanded="true" />
+            <element signature="method#String#2;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#3;class#String#0" expanded="true" />
+            <element signature="method#String#3;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#4;class#String#0" expanded="true" />
+            <element signature="method#String#4;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#5;class#String#0" expanded="true" />
+            <element signature="method#String#5;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#6;class#String#0" expanded="true" />
+            <element signature="method#String#6;class#String#0" expanded="true" />
+            <element signature="method#checkBounds#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#7;class#String#0" expanded="true" />
+            <element signature="method#String#7;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#8;class#String#0" expanded="true" />
+            <element signature="method#String#8;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#9;class#String#0" expanded="true" />
+            <element signature="method#String#9;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#10;class#String#0" expanded="true" />
+            <element signature="method#String#10;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#11;class#String#0" expanded="true" />
+            <element signature="method#String#11;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#12;class#String#0" expanded="true" />
+            <element signature="method#String#12;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#13;class#String#0" expanded="true" />
+            <element signature="method#String#13;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#14;class#String#0" expanded="true" />
+            <element signature="method#String#14;class#String#0" expanded="true" />
+            <element signature="method#String#15;class#String#0" expanded="true" />
+            <element signature="docComment;method#String#16;class#String#0" expanded="true" />
+            <element signature="method#String#16;class#String#0" expanded="true" />
+            <element signature="docComment;method#length#0;class#String#0" expanded="true" />
+            <element signature="method#length#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#String#0" expanded="true" />
+            <element signature="method#isEmpty#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#charAt#0;class#String#0" expanded="true" />
+            <element signature="method#charAt#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#codePointAt#0;class#String#0" expanded="true" />
+            <element signature="method#codePointAt#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#codePointBefore#0;class#String#0" expanded="true" />
+            <element signature="method#codePointBefore#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#codePointCount#0;class#String#0" expanded="true" />
+            <element signature="method#codePointCount#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#offsetByCodePoints#0;class#String#0" expanded="true" />
+            <element signature="method#offsetByCodePoints#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#getChars#0;class#String#0" expanded="true" />
+            <element signature="method#getChars#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#getChars#1;class#String#0" expanded="true" />
+            <element signature="method#getChars#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#getBytes#0;class#String#0" expanded="true" />
+            <element signature="method#getBytes#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#getBytes#1;class#String#0" expanded="true" />
+            <element signature="method#getBytes#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#getBytes#2;class#String#0" expanded="true" />
+            <element signature="method#getBytes#2;class#String#0" expanded="true" />
+            <element signature="docComment;method#getBytes#3;class#String#0" expanded="true" />
+            <element signature="method#getBytes#3;class#String#0" expanded="true" />
+            <element signature="docComment;method#equals#0;class#String#0" expanded="true" />
+            <element signature="method#equals#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#contentEquals#0;class#String#0" expanded="true" />
+            <element signature="method#contentEquals#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#contentEquals#1;class#String#0" expanded="true" />
+            <element signature="method#contentEquals#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#equalsIgnoreCase#0;class#String#0" expanded="true" />
+            <element signature="method#equalsIgnoreCase#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#compareTo#0;class#String#0" expanded="true" />
+            <element signature="method#compareTo#0;class#String#0" expanded="true" />
+            <element signature="docComment;field#CASE_INSENSITIVE_ORDER#0;class#String#0" expanded="true" />
+            <element signature="class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
+            <element signature="method#compare#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#compareToIgnoreCase#0;class#String#0" expanded="true" />
+            <element signature="method#compareToIgnoreCase#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#regionMatches#0;class#String#0" expanded="true" />
+            <element signature="method#regionMatches#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#regionMatches#1;class#String#0" expanded="true" />
+            <element signature="method#regionMatches#1;class#String#0" expanded="true" />
+            <element signature="e#52898#52951#0" expanded="true" />
+            <element signature="e#53320#53384#0" expanded="true" />
+            <element signature="docComment;method#startsWith#0;class#String#0" expanded="true" />
+            <element signature="method#startsWith#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#startsWith#1;class#String#0" expanded="true" />
+            <element signature="method#startsWith#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#endsWith#0;class#String#0" expanded="true" />
+            <element signature="method#endsWith#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#hashCode#0;class#String#0" expanded="true" />
+            <element signature="method#hashCode#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#indexOf#0;class#String#0" expanded="true" />
+            <element signature="method#indexOf#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#indexOf#1;class#String#0" expanded="true" />
+            <element signature="method#indexOf#1;class#String#0" expanded="true" />
+            <element signature="e#60862#60916#0" expanded="true" />
+            <element signature="docComment;method#indexOfSupplementary#0;class#String#0" expanded="true" />
+            <element signature="method#indexOfSupplementary#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#lastIndexOf#0;class#String#0" expanded="true" />
+            <element signature="method#lastIndexOf#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#lastIndexOf#1;class#String#0" expanded="true" />
+            <element signature="method#lastIndexOf#1;class#String#0" expanded="true" />
+            <element signature="e#64938#64992#0" expanded="true" />
+            <element signature="docComment;method#lastIndexOfSupplementary#0;class#String#0" expanded="true" />
+            <element signature="method#lastIndexOfSupplementary#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#indexOf#2;class#String#0" expanded="true" />
+            <element signature="method#indexOf#2;class#String#0" expanded="true" />
+            <element signature="docComment;method#indexOf#3;class#String#0" expanded="true" />
+            <element signature="method#indexOf#3;class#String#0" expanded="true" />
+            <element signature="docComment;method#indexOf#4;class#String#0" expanded="true" />
+            <element signature="method#indexOf#4;class#String#0" expanded="true" />
+            <element signature="docComment;method#lastIndexOf#2;class#String#0" expanded="true" />
+            <element signature="method#lastIndexOf#2;class#String#0" expanded="true" />
+            <element signature="docComment;method#lastIndexOf#3;class#String#0" expanded="true" />
+            <element signature="method#lastIndexOf#3;class#String#0" expanded="true" />
+            <element signature="docComment;method#lastIndexOf#4;class#String#0" expanded="true" />
+            <element signature="method#lastIndexOf#4;class#String#0" expanded="true" />
+            <element signature="docComment;method#substring#0;class#String#0" expanded="true" />
+            <element signature="method#substring#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#substring#1;class#String#0" expanded="true" />
+            <element signature="method#substring#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#subSequence#0;class#String#0" expanded="true" />
+            <element signature="method#subSequence#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#concat#0;class#String#0" expanded="true" />
+            <element signature="method#concat#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#replace#0;class#String#0" expanded="true" />
+            <element signature="method#replace#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#matches#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#contains#0;class#String#0" expanded="true" />
+            <element signature="method#contains#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#replaceFirst#0;class#String#0" expanded="true" />
+            <element signature="method#replaceFirst#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#replaceAll#0;class#String#0" expanded="true" />
+            <element signature="method#replaceAll#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#replace#1;class#String#0" expanded="true" />
+            <element signature="method#replace#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#split#0;class#String#0" expanded="true" />
+            <element signature="method#split#0;class#String#0" expanded="true" />
+            <element signature="e#90974#90985#0" expanded="true" />
+            <element signature="docComment;method#split#1;class#String#0" expanded="true" />
+            <element signature="method#split#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#toLowerCase#0;class#String#0" expanded="true" />
+            <element signature="method#toLowerCase#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#toLowerCase#1;class#String#0" expanded="true" />
+            <element signature="method#toLowerCase#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#toUpperCase#0;class#String#0" expanded="true" />
+            <element signature="method#toUpperCase#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#toUpperCase#1;class#String#0" expanded="true" />
+            <element signature="method#toUpperCase#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#trim#0;class#String#0" expanded="true" />
+            <element signature="method#trim#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#toString#0;class#String#0" expanded="true" />
+            <element signature="method#toString#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#toCharArray#0;class#String#0" expanded="true" />
+            <element signature="method#toCharArray#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#format#0;class#String#0" expanded="true" />
+            <element signature="method#format#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#format#1;class#String#0" expanded="true" />
+            <element signature="method#format#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#0;class#String#0" expanded="true" />
+            <element signature="method#valueOf#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#1;class#String#0" expanded="true" />
+            <element signature="method#valueOf#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#2;class#String#0" expanded="true" />
+            <element signature="method#valueOf#2;class#String#0" expanded="true" />
+            <element signature="docComment;method#copyValueOf#0;class#String#0" expanded="true" />
+            <element signature="method#copyValueOf#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#copyValueOf#1;class#String#0" expanded="true" />
+            <element signature="method#copyValueOf#1;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#3;class#String#0" expanded="true" />
+            <element signature="method#valueOf#3;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#4;class#String#0" expanded="true" />
+            <element signature="method#valueOf#4;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#5;class#String#0" expanded="true" />
+            <element signature="method#valueOf#5;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#6;class#String#0" expanded="true" />
+            <element signature="method#valueOf#6;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#7;class#String#0" expanded="true" />
+            <element signature="method#valueOf#7;class#String#0" expanded="true" />
+            <element signature="docComment;method#valueOf#8;class#String#0" expanded="true" />
+            <element signature="method#valueOf#8;class#String#0" expanded="true" />
+            <element signature="docComment;method#intern#0;class#String#0" expanded="true" />
+            <element signature="docComment;field#HASHING_SEED#0;class#String#0" expanded="true" />
+            <element signature="initializer##0;class#String#0" expanded="true" />
+            <element signature="e#121344#121392#0" expanded="true" />
+            <element signature="e#121753#121808#0" expanded="true" />
+            <element signature="docComment;field#hash32#0;class#String#0" expanded="true" />
+            <element signature="docComment;method#hash32#0;class#String#0" expanded="true" />
+            <element signature="method#hash32#0;class#String#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Indexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="35" selection-start="1751" selection-end="1751" vertical-scroll-proportion="0.0">
+        <state line="74" column="16" selection-start="2754" selection-end="2754" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Indexer#0;class#Indexer#0" expanded="true" />
@@ -1023,36 +1389,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/IndexerTests.java">
+    <entry file="file://$PROJECT_DIR$/test/WordIndexTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="1" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="16" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.0">
+        <state line="39" column="16" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#parseFile#0;class#Utils#0" expanded="true" />
-            <element signature="method#tokenize#0;class#Utils#0" expanded="true" />
-            <element signature="docComment;method#normalizedWords#0;class#Utils#0" expanded="true" />
-            <element signature="method#normalizedWords#0;class#Utils#0" expanded="true" />
-            <element signature="e#3033#3041#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#testInputOutputArray#0;class#WordIndexTests#0" expanded="true" />
+            <element signature="method#tryLoadDocument#0;class#WordIndexTests#0" expanded="true" />
+            <element signature="method#test#0;class#WordIndexTests#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher.java">
+    <entry file="jar://$PROJECT_DIR$/libs/integers-sources.jar!/com/almworks/integers/IntIntFindingIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="70" selection-start="2517" selection-end="2517" vertical-scroll-proportion="0.9378428">
+        <state line="80" column="13" selection-start="2348" selection-end="2348" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#left#0;class#IntIntFindingIterator#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntIntMultiMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="6" selection-start="1583" selection-end="1583" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#parseExpression#0;class#Searcher#0" expanded="true" />
-            <element signature="e#849#862#0" expanded="true" />
-            <element signature="docComment;method#main#0;class#Searcher#0" expanded="true" />
-            <element signature="method#main#0;class#Searcher#0" expanded="true" />
-            <element signature="method#extractName#0;class#Searcher#0" expanded="true" />
+            <element signature="method#put#0;class#IntIntMultiMap#0" expanded="true" />
+            <element signature="method#getKey#0;class#IntIntMultiMap#0" expanded="true" />
+            <element signature="e#613#920#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="method#left#0;class#IntIntMultiMap#0" expanded="true" />
+            <element signature="method#right#0;class#IntIntMultiMap#0" expanded="true" />
+            <element signature="method#longIterate#0;class#IntIntMultiMap#0" expanded="true" />
+            <element signature="e#1244#1582#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="23" selection-start="4535" selection-end="4535" vertical-scroll-proportion="0.41512346">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#WordIndex#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#WordIndex#1;class#WordIndex#0" expanded="true" />
+            <element signature="docComment;method#save#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#save#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#save#1;class#WordIndex#0" expanded="true" />
+            <element signature="method#dumpIndexToScreen#0;class#WordIndex#0" expanded="true" />
+            <element signature="docComment;method#loadIndex#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#loadIndex#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#loadIndex#1;class#WordIndex#0" expanded="true" />
+            <element signature="docComment;method#getDocument#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#getDocument#0;class#WordIndex#0" expanded="true" />
+            <element signature="docComment;method#getDocuments#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#getDocuments#0;class#WordIndex#0" expanded="true" />
+            <element signature="class#3589:3973" expanded="true" />
+            <element signature="method#hasNext#0;class#3589:3973" expanded="true" />
+            <element signature="method#next#0;class#3589:3973" expanded="true" />
+            <element signature="method#remove#0;class#3589:3973" expanded="true" />
+            <element signature="docComment;method#documentsCount#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#documentsCount#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#status#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#getAllDocuments#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#getAllWords#0;class#WordIndex#0" expanded="true" />
+            <element signature="docComment;method#searchWord#0;class#WordIndex#0" expanded="true" />
+            <element signature="e#4572#4589#0" expanded="true" />
+            <element signature="docComment;method#addLink#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#addLink#0;class#WordIndex#0" expanded="true" />
+            <element signature="method#addLink#1;class#WordIndex#0" expanded="true" />
           </folding>
         </state>
       </provider>

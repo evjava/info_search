@@ -5,12 +5,12 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class WordIndex {
-  private Map<String, IntAmortizedSet> myWords;
+  private Map<String, IntIntMultiMap> myWords;
   private List<String> myDocuments;
   private final static String separator = " ___ ";
 
   public WordIndex(List<String> documents) {
-    myWords = new HashMap<String, IntAmortizedSet>();
+    myWords = new HashMap<String, IntIntMultiMap>();
     myDocuments = documents;
   }
 
@@ -35,10 +35,10 @@ public class WordIndex {
     }
     out.println();
 
-    for (Map.Entry<String, IntAmortizedSet> entry : myWords.entrySet()) {
-      IntAmortizedSet docs = entry.getValue();
+    for (Map.Entry<String, IntIntMultiMap> entry : myWords.entrySet()) {
+      IntIntMultiMap docs = entry.getValue();
       out.printf("%s ", entry.getKey());
-      for (IntIterator doc : docs) {
+      for (LongIterator doc : docs.longIterate()) {
         out.print(doc.value());
         out.print(' ');
       }
@@ -97,7 +97,7 @@ public class WordIndex {
       String[] values = line.split(" ");
       String word = values[0];
       for (int i = 1; i < values.length; i++) {
-        index.addLink(word, Integer.valueOf(values[i]));
+        index.addLink(word, -1000, Integer.valueOf(values[i]));
       }
     }
     return index;
@@ -162,27 +162,38 @@ public class WordIndex {
   }
 
   /**
-   * @return sorted unique sequence of documents that contain {@code word}
+   * @
    */
-  public IntSizedIterable searchWord(String word) {
-    IntAmortizedSet set = myWords.get(word);
-    return set == null ? IntSet.EMPTY : set;
+  public IntIntIterable searchWord(String word) {
+    IntIntMultiMap set = myWords.get(word);
+    return set == null ? IntIntMultiMap.EMPTY : set;
   }
+
+  // todo implement
+//  /**
+//   * @param word
+//   * @param idxFrom inclusively
+//   * @param idxTo exclusively
+//   * @return sorted sequence of documents that contain {@code word}
+//   */
+//  public IntIterable searchWord(String word, int idxFrom, int idxTo) {
+//
+//  }
 
   // --------------------- update index
 
   /**
-   * @param word     expected normalized
-   * @param document expected correct number [0.. documentsCount)
-   * @return true if success otherwise false
+   * @param word expected normalized
+   * @param wordPosition
+   *@param document expected correct number [0.. documentsCount)  @return true if success otherwise false
    */
-  public boolean addLink(String word, int document) {
+  public boolean addLink(String word, int wordPosition, int document) {
     if (word.length() == 0) {
       return false;
     }
-    IntAmortizedSet set = myWords.get(word);
+    IntIntMultiMap set = myWords.get(word);
     if (set == null) {
-      set = new IntAmortizedSet();
+      set = new IntIntMultiMap();
       set.add(document);
       myWords.put(word, set);
       return true;
@@ -191,12 +202,12 @@ public class WordIndex {
     }
   }
 
-  public boolean addLink(String word, String document) {
+  public boolean addLink(String word, int wordPosition, String document) {
     int docIdx = myDocuments.indexOf(document);
 
     if (docIdx == -1) {
       throw new IllegalArgumentException();
     }
-    return addLink(word, docIdx);
+    return addLink(word, wordPosition, docIdx);
   }
 }

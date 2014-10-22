@@ -22,7 +22,7 @@ public class WordIndexTests {
 
   @Test
   public void testSimple() throws Exception {
-    String[] documents = "qwertyuiopasdfghjklzxcvbnm".split("");
+    String[] documents = "abcdefghijklmnopqrstuvwxyz".split("");
     WordIndex index = new WordIndex(Arrays.asList(documents).subList(1, documents.length));
     String[] words = ("i am sure you were in a situation in which you wanted to join multiple " +
         "strings if you were using a programming language other than java you probably used the " +
@@ -31,8 +31,13 @@ public class WordIndexTests {
         "building gui applications accessing databases sending stuff over the network doing xml " +
         "transformations or calling remote methods a simple method for joining a collection of " +
         "strings was not included for this you needed one of various third party libraries").split(" ");
+    int counter = 0;
     for (String word : words) {
-      index.addLink(word, word.charAt(0));
+      index.addLink(word, counter, word.substring(0, 1));
+      if (word.length() > 1) {
+        index.addLink(word, counter, word.substring(1, 2));
+      }
+      counter++;
     }
     index.dumpIndexToScreen();
     System.out.println("docs: " + index.getAllDocuments());
@@ -49,9 +54,9 @@ public class WordIndexTests {
     index.dumpIndexToScreen();
   }
 
-  @Test
+//  @Test
   public void test() {
-    String[] documents = "qwertyuiopasdfghjklzxcvbnm".split("");
+    String[] documents = "abcdefghijklmnopqrstuvwxyz".split("");
     System.out.println(Arrays.toString(documents));
   }
 

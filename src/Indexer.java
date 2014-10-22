@@ -68,9 +68,10 @@ public class Indexer {
       }
       BufferedReader br = new BufferedReader(in);
       String line;
+      int counter = 0;
       while ((line = br.readLine()) != null) {
         for (String word : Utils.normalizedWords(parser, line)) {
-          index.addLink(word, i);
+          index.addLink(word, counter++, i);
         }
       }
       System.out.println("/// document processed. index status: " + index.status());
